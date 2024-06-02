@@ -21,9 +21,7 @@ Rank Based Recommendations: To get started with building recommendations, I firs
 
 User-User Based Collaborative Filtering: To build better recommendations for the users of IBM's platform, I examined users with similar interaction patterns. Items interacted with by similar users are then recommended.
 
-Content Based Recommendations: Using NLP techniques, I developed a content-based recommendation system that suggests articles based on the content similarity.
-
-Matrix Factorization: Finally, I employed a machine learning approach to build recommendations through matrix decomposition. This method helps predict new articles an individual might interact with based on user-item interaction data.
+Content Based Recommendations: I developed a content-based recommendation system that suggests articles based on the content similarity.
 
 
 # Data
