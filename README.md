@@ -2,7 +2,7 @@
 Recommendations Engines with IBM
 This project was designed to analyze the interactions that users have with articles on the IBM Watson Studio platform and make recommendations to them about new articles.
 
-Installations
+# Installations
 This project requires Python 3.x and the following Python libraries installed:
 
 Nltk
@@ -10,7 +10,8 @@ Pandas
 Progressbar
 Seaborn
 scikit-learn
-Summary
+
+# Summary
 The project contains the following tasks:
 
 Exploratory Data Analysis: This part involves exploring the data to understand the structure and key characteristics.
@@ -24,10 +25,11 @@ Content Based Recommendations: Using NLP techniques, I developed a content-based
 Matrix Factorization: Finally, I employed a machine learning approach to build recommendations through matrix decomposition. This method helps predict new articles an individual might interact with based on user-item interaction data.
 
 
-Data
+# Data
 user-item-interactions.csv: This file contains user interaction data.
 articles_community.csv: This file contains descriptions of articles.
-Acknowledgments
+
+# Acknowledgments
 I would like to thank Udacity for this amazing project, and IBM for providing the data.
 
 
