@@ -5,11 +5,12 @@ This project was designed to analyze the interactions that users have with artic
 # Installations
 This project requires Python 3.x and the following Python libraries installed:
 
-Nltk
 Pandas
-Progressbar
-Seaborn
-scikit-learn
+numpy 
+matplotlib.pyplot 
+project_tests 
+pickle
+
 
 # Summary
 The project contains the following tasks:
