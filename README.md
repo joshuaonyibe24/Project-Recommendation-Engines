@@ -7,7 +7,7 @@ This project requires Python 3.x and the following Python libraries installed:
 
 Pandas
 numpy 
-matplotlib.pyplot 
+matplotlib
 project_tests 
 pickle
 
